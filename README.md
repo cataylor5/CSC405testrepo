@@ -11,8 +11,8 @@
   GitHub: BvnnyGaming
 
 - Malado Sissoko 
-  Email: 
-  GitHub: 
+  Email: malados101@icloud.com
+  GitHub: Malad0
 
 ## Project Title
 Analysis of Dirty Iranian Transactions Dataset
